@@ -1,0 +1,6 @@
+{
+  "name": "AI Sign Language Translator",
+  "description": "Real-time sign language recognition using computer vision, MediaPipe 21 hand landmarks, and machine learning to translate hand signs into text and speech.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
